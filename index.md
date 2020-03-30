@@ -1,8 +1,8 @@
 ---
 title: home
 banner:
-  title: Amet donec nullam fermentum
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  title: Test site for dom and la
+  subtitle: it easier to edit in the cms
   actions:
     - label: Learn More
       url: /no-sidebar
