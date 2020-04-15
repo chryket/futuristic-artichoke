@@ -1,10 +1,10 @@
 ---
-title: No Sidebar
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: Safety first
+subtitle: Safety tips for experiments at home
 content_img:
   enabled: true
   path: images/pic10.jpg
-  url: '#'
+  url: "#"
 sidebar:
   enabled: false
   side: left
